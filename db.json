@@ -1,0 +1,56 @@
+{
+    "articles": [
+      {
+        "id": "1",
+        "title": "Example Article",
+        "content": "This is an example."
+      },
+      {
+        "id": "2",
+        "title": "Second Article",
+        "content": "This is also an example."
+      },
+      {
+        "id": "210a",
+        "title": "Third Article",
+        "content": "Another example!"
+      },
+      {
+        "id": "a864",
+        "title": "Third Article",
+        "content": "Another example!"
+      },
+      {
+        "id": "3201",
+        "title": "Third Article",
+        "content": "Another example!"
+      },
+      {
+        "id": "a562",
+        "title": "Third Article",
+        "content": "Another example!"
+      },
+      {
+        "id": "2cb1",
+        "title": "Third Article",
+        "content": "Another example!"
+      },
+      {
+        "id": "2309",
+        "title": "Third Article",
+        "content": "Another example!"
+      },
+      {
+        "id": "2335",
+        "title": "Akeem Fourth Article",
+        "content": "Another Akeem example!"
+      },
+      {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "id": "b4aa"
+      }
+    ]
+  }
